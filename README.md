@@ -53,15 +53,6 @@ To use the application, type in the following commands in GNU/Linux terminal.
 
 `example: python3 DRipper.py -s 0.00.00.00 -t 135`
 
-## For MacOS
-
-Install Brew and Install dependencies (python 3)
-
-# Note:
-If you find any problems than please write on issue github and to our Telegram Group. Don't use for revenge! Make sure your anonymity!
-It's made for just testing purpose.
-We are not responsible for any abuse or damage caused by this program. Only for Educational Purpose.
-Thanks.
  
 ## Requirments ▶
 
@@ -71,22 +62,4 @@ Thanks.
 
 ●🖥Windows
 
-●🖥MAC
-
-# Modified by @palahsu
-
-For any kind of help, support, payment, suggetion and request ask me on Telegram:
-
-<a href="https://t.me/CyberClans"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
-
-Or Facebook <a href="https://www.facebook.com/aduri.knox01/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-
-## Follow on:
-<p align="left">
-<a href="https://github.com/palahsu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
-</p><p align="left">
-<a href="https://www.facebook.com/aduri.knox01/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p><p align="left">
-<a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
-</p><p align="left"> 
  
